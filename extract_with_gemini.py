@@ -32,7 +32,7 @@ SIC Date:
 Comments:
 """
 
-API_KEY = "AIzaSyD0ZQiR56gas1Kxnq_fEwv3Ku9M_KH4Zo8"  # Replace with your actual key
+API_KEY = "MYKEY"  # Replace with your actual key
 
 genai.configure(api_key=API_KEY)
 
