@@ -15,7 +15,7 @@ def index():
             filepath = os.path.join(UPLOAD_FOLDER, file.filename)
             file.save(filepath)
 
-            
+            #test
             #if not data:
                # return "❌ Gemini could not extract structured data. Try a clearer document."
             
