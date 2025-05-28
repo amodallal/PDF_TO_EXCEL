@@ -1,0 +1,31 @@
+number: 1
+Name (Arabic): راوا ماجد
+Name (English): Rawa Majid
+Nickname : OTHMAN, Miran Rekawt; "Kurdish Fox"
+Passport number: NA
+Nationality: Sweden; Iraq
+Birth date: 12/07/1986
+place of birth: Iran
+Mother: NA
+Father's Name: NA
+Register Number: NA
+Register Place: NA
+SIC Reference: 26.89/5/1961
+SIC Date: 21/05/2025
+Comments: NA
+
+number: 2
+Name (Arabic): فوكستروت نتورك
+Name (English): Foxtrot Network
+Nickname : NA
+Passport number: NA
+Nationality: Sweden
+Birth date: NA
+place of birth: NA
+Mother: NA
+Father's Name: NA
+Register Number: NA
+Register Place: NA
+SIC Reference: 26.89/5/1961
+SIC Date: 21/05/2025
+Comments: Organization Established Date 2015 to 2019
